@@ -129,7 +129,7 @@ class TataDanaStore {
       email: 'talithasukma23@gmail.com',
       full_name: 'Talitha Ayu Sukma (Owner & Superadmin)',
       avatar_url: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150',
-      phone_number: '081234567899',
+      phone_number: '088222003880',
       phone_verified: true,
       email_verified: true,
       plan: 'pro',
@@ -1101,7 +1101,7 @@ class TataDanaStore {
     const rawEmail = (data.email || 'talithaayusukm').trim().toLowerCase();
     const finalEmail = rawEmail.includes('@') ? rawEmail : `${rawEmail}@tatadana.app`;
     const finalName = data.fullName || 'Talitha Ayu Sukma (Owner & Superadmin)';
-    const finalPhone = data.phone || '081234567899';
+    const finalPhone = data.phone || '088222003880';
     const finalTelegram = data.telegramUsername || 'talithaayusukm';
     const password = data.password || 'Admin@TataDana2026!';
 

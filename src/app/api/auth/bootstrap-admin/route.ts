@@ -48,7 +48,7 @@ export async function POST(req: NextRequest) {
       email: targetEmail,
       password,
       fullName: fullName || 'Talitha Ayu Sukma (Owner & Superadmin)',
-      phone: phone || '081234567899',
+      phone: phone || '088222003880',
       telegramUsername: telegramUsername || 'talithaayusukm',
     });
 
