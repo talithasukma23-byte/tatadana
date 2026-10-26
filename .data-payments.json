@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pay-1792907686177",
+    "order_id": "PRO-MVNEY0IP-5879",
+    "user_id": "user-1792744144919",
+    "user_name": "GANIA",
+    "user_email": "ganiasalsa@gmail.com",
+    "plan": "pro",
+    "amount": 99000,
+    "status": "settlement",
+    "payment_type": "manual_transfer",
+    "created_at": "2026-10-25T05:54:46.177Z",
+    "approved_by": "admin-owner-talitha",
+    "approved_at": "2026-10-25T06:10:36.173Z"
+  }
+]
