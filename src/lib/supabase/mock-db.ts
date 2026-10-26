@@ -135,6 +135,8 @@ class TataDanaStore {
       plan: 'pro',
       role: 'superadmin',
       account_status: 'approved',
+      password_hash: '974c21ce310284844b6fc76795d475cdafe2ba657ba16b6fcfb1797fceb0880a2ce44255e596edc58b90aab94b157eee2cc47e93bfec0e6dea4f3a953dd75ca7',
+      password_salt: '87efad03b60c190a06088734d0b236c3',
       timezone: 'Asia/Jakarta',
       currency: 'IDR',
       telegram_chat_id: 8806951051,
